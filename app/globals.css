@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+  margin: 0;
+  height: 100vh; /* Full height */
+  background: linear-gradient(135deg, #43e97b, #38f9d7); /* Gradient colors */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff; /* Text color */
+}

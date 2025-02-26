@@ -2,7 +2,7 @@ import ClientLogger from './components/ClientLogger';
 import './globals.css';
 
 export const metadata = {
-  title: 'Coder',
+  title: '<Coder/>',
   description: 'Perfections portfolio',
   icons: {
     icon: '/laptop.ico?v=1', // Add a query string
